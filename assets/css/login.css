@@ -263,6 +263,7 @@
     color: #fbfdff;
     background: #a7e245;
     transform: translateX(-30%);
+    text-decoration: none;
 }
 
 .btn-signup {
@@ -270,4 +271,9 @@
     background: #fbfdff;
     box-shadow: inset 0 0 0 2px #a7e245;
     transform: translateX(30%);
+}
+
+.item-link {
+    text-decoration: none;
+    margin-left: 5rem;
 }
